@@ -1,0 +1,19 @@
+.header h1{
+    font-size:3rem;
+    font-weight: 800;
+    max-width: 50rem;  
+
+}
+.header p{
+   
+    font-size: 0.8rem;
+    font-weight: 500;
+    max-width: 50rem;
+    
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    margin-top:3%;
+}
