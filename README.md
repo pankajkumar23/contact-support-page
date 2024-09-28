@@ -1,6 +1,8 @@
 # React + Vite Contact Support Page
 
 This template offers a minimal setup to get React working seamlessly with Vite, featuring Hot Module Replacement (HMR) and integrated ESLint rules for code quality. 
+## About
+This project is a React-based single-page design focused on creating an interactive and user-friendly "Contact Us" form. It allows users to connect via support chat, phone, or email by submitting their details through a responsive form.
 
 ## Official Plugins
 
